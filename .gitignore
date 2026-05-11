@@ -1,10 +1,10 @@
 # Android
-android/.gradle/
-android/build/
-android/app/build/
-android/local.properties
-android/*.iml
-android/.idea/
+Mobile/StepAnalizer/.gradle/
+Mobile/StepAnalizer/build/
+Mobile/StepAnalizer/app/build/
+Mobile/StepAnalizer/local.properties
+Mobile/StepAnalizer/*.iml
+Mobile/StepAnalizer/.idea/
 
 # Python
 desktop/__pycache__/
@@ -12,7 +12,7 @@ desktop/.venv/
 desktop/dist/
 desktop/build/
 desktop/*.spec
-desktop/steps_data.json    # Dane osobiste - nie wrzucaj na GitHub!
+desktop/steps_data.json
 
 # Ogólne
 .DS_Store
