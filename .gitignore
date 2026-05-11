@@ -9,14 +9,14 @@ Mobile/StepsAnalizer/*.iml
 Mobile/StepsAnalizer/.kotlin/
 
 #DESKTOP
-StepsAnalizer_Serwer/.idea/
-StepsAnalizer_Serwer/.venv/
-StepsAnalizer_Serwer/__pycache__/
-StepsAnalizer_Serwer/build/
-StepsAnalizer_Serwer/dist/
-StepsAnalizer_Serwer/*.spec
-StepsAnalizer_Serwer/steps_data.json
-StepsAnalizer_Serwer/*.pyc
+Desktop/.idea/
+Desktop/.venv/
+Desktop/__pycache__/
+Desktop/build/
+Desktop/dist/
+Desktop/Desktop/*.spec
+Desktop/Desktop/steps_data.json
+Desktop/Desktop/*.pyc
 
 #OGÓLNE
 .DS_Store
