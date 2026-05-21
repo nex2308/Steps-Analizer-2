@@ -15,6 +15,17 @@ Desktop/steps_data.json
 Desktop/icon.ico
 Desktop/*.pyc
 Desktop/resource_path/
+Desktop/Desktop/.idea/
+Desktop/Desktop/__pycache__/
+Desktop/Desktop/core/__pycache__/
+Desktop/Desktop/ui/__pycache__/
+Desktop/Desktop/build/
+Desktop/Desktop/dist/
+Desktop/Desktop/*.spec
+Desktop/Desktop/steps_data.json
+Desktop/Desktop/icon.ico
+Desktop/Desktop/*.pyc
+Desktop/Desktop/resource_path/
 
 # Android
 Mobile/.gradle/
