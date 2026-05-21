@@ -1,4 +1,22 @@
-#ANDROID
+# usuwanie .venv z repozytorium
+Desktop/.venv/
+*/.venv/
+.venv/
+
+# Python
+Desktop/.idea/
+Desktop/__pycache__/
+Desktop/core/__pycache__/
+Desktop/ui/__pycache__/
+Desktop/build/
+Desktop/dist/
+Desktop/*.spec
+Desktop/steps_data.json
+Desktop/icon.ico
+Desktop/*.pyc
+Desktop/resource_path/
+
+# Android
 Mobile/.gradle/
 Mobile/StepsAnalizer/.gradle/
 Mobile/StepsAnalizer/build/
@@ -8,17 +26,8 @@ Mobile/StepsAnalizer/local.properties
 Mobile/StepsAnalizer/*.iml
 Mobile/StepsAnalizer/.kotlin/
 
-#DESKTOP
-Desktop/.idea/
-Desktop/.venv/
-Desktop/__pycache__/
-Desktop/build/
-Desktop/dist/
-Desktop/Desktop/*.spec
-Desktop/Desktop/steps_data.json
-Desktop/Desktop/*.pyc
-
-#OGÓLNE
+# Ogólne
+.idea/
 .DS_Store
 *.log
 Thumbs.db
